@@ -1,0 +1,75 @@
+.jumbotron img{
+    width: 300px;
+    border: 5px solid white;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    padding: 50px;
+    background-color: #2B3467;
+}
+
+.jumbotron h1,
+.jumbotron p{
+    color: white;
+}
+
+.about{
+    background-color: #BAD7E9;
+}
+
+.WAIFU{
+    background-color: #EB455F;
+}
+.WAIFU h2{
+    color: white;
+}
+
+.WAIFU hr{
+    color: white;
+    width: 400px;
+    margin: auto;
+    border: 3px solid white;
+    margin-bottom: 20px;
+}
+
+
+.WAIFU .gambar {
+    margin-left: 55px;
+    font-size: 18px;
+    color: white;
+}
+.about .container {
+    padding-top: 20px;
+}
+
+.about hr {
+    width: 400px;
+    margin: auto;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+section {
+    min-height: 600px;
+}
+
+button {
+    margin: 20px auto;
+}
+
+.contact hr {
+    width: 400px;
+    margin: auto;
+    border: 3px solid black;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: black;
+}
+
+footer p {
+    color: white;
+}
